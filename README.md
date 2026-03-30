@@ -1,22 +1,43 @@
-# 👋 Olá, eu sou Eliseu (JerryDev) 
-Tenho 13 anos
+# 👋 Olá, eu sou Eliseu (JerryDev)
+
+🎮 Desenvolvedor de jogos (GML) focado em criar sistemas funcionais e mecânicas de gameplay.
+
+Transformo ideias em sistemas reais dentro do jogo, sempre priorizando simplicidade, organização e funcionamento estável.
 
 ---
 
-🎮 Sou Desenvolvedor de jogos focado em transformar ideias em sistemas funcionais dentro do jogo.
+## 🚀 O que eu faço
 
-Tenho experiência prática na criação de mecânicas como inventário, interfaces (UI) e sistemas de interação, sempre priorizando organização, clareza e funcionamento real em gameplay.
+- 🎮 Sistemas de inventário (coleta, drop, organização)  
+- 🖥️ Interfaces e menus funcionais  
+- ⚙️ Mecânicas de gameplay  
+- 🧠 Resolução de problemas em sistemas de jogo  
 
-Meu foco é desenvolver soluções simples, eficientes e fáceis de integrar, evitando complexidade desnecessária e garantindo que tudo funcione de forma estável.
+---
 
-Ao longo dos meus projetos, venho construindo sistemas do zero, resolvendo problemas de forma direta e evoluindo constantemente como desenvolvedor.
+## 💡 Sobre mim
 
-Valorizo comunicação clara, responsabilidade com o que é entregue e comprometimento com o resultado final do projeto.
+Desenvolvedor com experiência prática na criação de sistemas do zero, focado em soluções diretas e eficientes.
 
-🚀 Atualmente trabalhando em projetos próprios e aberto a novas oportunidades, colaborações e desenvolvimento de sistemas para jogos.
+Busco sempre criar código limpo, organizado e fácil de integrar, evitando complexidade desnecessária e garantindo estabilidade dentro do jogo.
+
+Tenho foco em evolução constante, construindo projetos reais e melhorando minhas habilidades a cada novo desafio.
+
+---
+
+## 🎯 Diferencial
+
+✔ Sistemas pensados para uso real em gameplay  
+✔ Organização e clareza no código  
+✔ Foco em soluções simples e funcionais  
+✔ Evolução contínua através de projetos práticos  
 
 ---
 
 ## 📬 Contato
 
-- Discord: f1lx7830
+💬 Discord: f1lx7830  
+
+---
+
+🚀 Aberto a oportunidades, colaborações e desenvolvimento de sistemas para jogos.
