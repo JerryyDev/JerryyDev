@@ -1,36 +1,36 @@
-# 👋 Olá, eu sou Eliseu (JerryDev)
+👋 Olá, eu sou Eliseu (JerryDev)
 
-🎮 Desenvolvedor de jogos (GML) focado em criar sistemas funcionais e mecânicas de gameplay.
+🎮 Desenvolvedor de jogos (GML) especializado na criação de sistemas e mecânicas de gameplay.
 
-Transformo ideias em sistemas reais dentro do jogo, sempre priorizando simplicidade, organização e funcionamento estável.
+Transformo ideias em funcionalidades reais dentro do jogo, com foco em organização, clareza e funcionamento sólido.
 
 ---
 
-## 🚀 O que eu faço
+## 🚀 Especialidade
 
 - 🎮 Sistemas de inventário (coleta, drop, organização)  
 - 🖥️ Interfaces e menus funcionais  
 - ⚙️ Mecânicas de gameplay  
-- 🧠 Resolução de problemas em sistemas de jogo  
+- 🧠 Estruturação e resolução de sistemas  
 
 ---
 
-## 💡 Sobre mim
+## 💡 Como eu trabalho
 
-Desenvolvedor com experiência prática na criação de sistemas do zero, focado em soluções diretas e eficientes.
+Desenvolvo sistemas do zero com foco em eficiência e aplicação real dentro do jogo.
 
-Busco sempre criar código limpo, organizado e fácil de integrar, evitando complexidade desnecessária e garantindo estabilidade dentro do jogo.
+Priorizo soluções simples, organizadas e fáceis de integrar, evitando complexidade desnecessária e garantindo estabilidade no funcionamento.
 
-Tenho foco em evolução constante, construindo projetos reais e melhorando minhas habilidades a cada novo desafio.
+Cada sistema é pensado para ser claro, funcional e pronto para uso em projetos reais.
 
 ---
 
-## 🎯 Diferencial
+## 🎯 Diferenciais
 
-✔ Sistemas pensados para uso real em gameplay  
-✔ Organização e clareza no código  
-✔ Foco em soluções simples e funcionais  
-✔ Evolução contínua através de projetos práticos  
+✔ Foco total em sistemas aplicáveis ao gameplay  
+✔ Código limpo, organizado e escalável  
+✔ Abordagem prática na resolução de problemas  
+✔ Evolução contínua através de projetos reais  
 
 ---
 
