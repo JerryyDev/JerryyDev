@@ -1,19 +1,48 @@
-# 👋 Olá, eu sou Eliseu
-Tenho 13 anos e sou 🎮 Desenvolvedor de jogos(GML)
+# 👋 Olá, eu sou Eliseu (JerryDev)
 
-Eu crio sistemas de inventario, UI, etc...
+🎮 Desenvolvedor de jogos (GML)  
+Focado em sistemas, UI e mecânicas de gameplay  
+
+Atualmente criando projetos próprios e evoluindo constantemente 🚀  
+
+---
+
+## 🚀 Projetos
+
+### 🎮 Sistema de Inventário
+Sistema completo com:
+- Stack de itens
+- Drop no chão
+- Coleta de itens
+- Organização em slots  
+
+---
+
+### 🖥️ Menu + Configurações
+Sistema de menu com:
+- Navegação funcional
+- Configuração de resolução
+- Interface organizada  
+
+---
+
+### 🍌 BananaSplash (Em desenvolvimento)
+Jogo baseado em ideias da comunidade  
+Projeto focado em evolução contínua e feedback  
+
+🔗 https://github.com/JerryyDev/BananaSplash
 
 ---
 
 ## 🛠️ Skills
 
-- GameMaker (GML)
+- GameMaker Studio (GML)
 - Lógica de programação
-- Sistemas de jogo
-- UI / Menu
+- Sistemas de jogo (inventário, UI, mecânicas)
+- Debugging e resolução de problemas  
 
 ---
 
 ## 📬 Contato
 
-- Discord: fl1x7830
+- Discord: f1lx7830
