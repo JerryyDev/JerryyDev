@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Eliseu
+Tenho 13 anos e sou 🎮 Desenvolvedor de jogos(GML)
 
-🎮 Desenvolvedor de jogos (GML)  
-Criando sistemas como inventário, UI e mecânicas  
+Eu crio sistemas de inventario, UI, etc...
 
 ---
 
