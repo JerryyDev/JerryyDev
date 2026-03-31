@@ -1,4 +1,4 @@
-#👋 Olá, eu sou Eliseu (JerryDev)
+👋 Olá, eu sou Eliseu (JerryDev)
 
 🎮 Desenvolvedor de jogos (GML) especializado na criação de sistemas e mecânicas de gameplay.
 
