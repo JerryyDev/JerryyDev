@@ -36,7 +36,7 @@ Cada sistema é pensado para ser claro, funcional e pronto para uso em projetos 
 
 ## 📬 Contato
 
-💬 Discord: f1lx7830  
+💬 Discord: fl1x7830  
 
 ---
 
