@@ -1,43 +1,50 @@
-👋 Olá, eu sou Eliseu (JerryDev)
+# 👋 Olá, eu sou Eliseu (JerryDev)
 
-🎮 Desenvolvedor de jogos (GML) especializado na criação de sistemas e mecânicas de gameplay.
+🎮 Desenvolvedor de jogos e 💻 Front-End Developer.
 
-Transformo ideias em funcionalidades reais dentro do jogo, com foco em organização, clareza e funcionamento sólido.
+Crio sistemas, interfaces e mecânicas com foco em organização,
+experiência do usuário e funcionalidade real.
 
----
-
-## 🚀 Especialidade
-
-- 🎮 Sistemas de inventário (coleta, drop, organização)  
-- 🖥️ Interfaces e menus funcionais  
-- ⚙️ Mecânicas de gameplay  
-- 🧠 Estruturação e resolução de sistemas  
+Atualmente trabalhando com:
+- GameMaker / GML
+- HTML
+- CSS
+- JavaScript
 
 ---
 
-## 💡 Como eu trabalho
+## 🚀 Especialidades
 
-Desenvolvo sistemas do zero com foco em eficiência e aplicação real dentro do jogo.
-
-Priorizo soluções simples, organizadas e fáceis de integrar, evitando complexidade desnecessária e garantindo estabilidade no funcionamento.
-
-Cada sistema é pensado para ser claro, funcional e pronto para uso em projetos reais.
-
----
-
-## 🎯 Diferenciais
-
-✔ Foco total em sistemas aplicáveis ao gameplay  
-✔ Código limpo, organizado e escalável  
-✔ Abordagem prática na resolução de problemas  
-✔ Evolução contínua através de projetos reais  
+🎮 Desenvolvimento de sistemas para jogos
+🧠 Mecânicas e gameplay
+🖥️ Interfaces modernas (UI)
+💾 Save systems e estruturação
+🌐 Front-End responsivo
 
 ---
 
-## 📬 Contato
+## 🛠️ Tecnologias
 
-💬 Discord: fl1x7830  
+![GML](https://img.shields.io/badge/GML-black?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
 
 ---
 
-🚀 Aberto a oportunidades, colaborações e desenvolvimento de sistemas para jogos.
+## 📌 Projetos em Destaque
+
+🎮 Banana Splash  
+Jogo focado em gameplay arcade, menus personalizados e sistemas próprios.
+
+🐱 LumiCat  
+Projeto com foco em atmosfera, mecânicas e identidade visual.
+
+💾 Inventory System  
+Sistema modular de inventário desenvolvido em GML com organização e escalabilidade.
+
+---
+
+## 📫 Contato
+
+Discord: f1x7830
