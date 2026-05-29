@@ -6,51 +6,51 @@
 
 ### 🎮 Game Developer • 💻 Front-End Developer
 
-🚀 Criando sistemas, interfaces e experiências focadas em gameplay, organização e identidade visual.
+🚀 Building systems, interfaces and experiences focused on gameplay, organization and visual identity.
 
 </div>
 
 ---
 
-# 👋 Sobre mim
+# 👋 About Me
 
-Sou desenvolvedor focado em criação de jogos e interfaces modernas.
+I am a developer focused on game development and modern interfaces.
 
-Atualmente trabalho com:
+Currently working with:
 
-- 🎮 Desenvolvimento de jogos em GameMaker
-- 🧠 Mecânicas e sistemas em GML
-- 💻 Front-End com HTML, CSS e JavaScript
-- 🎨 UI/UX para jogos e web
-- ⚡ Estruturação e otimização de projetos
+- 🎮 Game Development using GameMaker
+- 🧠 Gameplay mechanics and systems in GML
+- 💻 Front-End Development with HTML, CSS and JavaScript
+- 🎨 UI/UX for games and web
+- ⚡ Project structure and optimization
 
-Meu foco é transformar ideias em projetos funcionais, organizados e visualmente fortes.
-
----
-
-# 🚀 Especialidades
-
-## 🎮 Desenvolvimento de Jogos
-
-- Sistemas de inventário
-- Mecânicas de gameplay
-- Menus e interfaces
-- Sistemas de save
-- Estruturação de projetos
-- Organização de código
-
-## 💻 Front-End
-
-- Interfaces modernas
-- Layout responsivo
-- Componentes interativos
-- Animações em CSS
-- Estruturação visual
-- Experiência do usuário
+My goal is to transform ideas into functional, organized and visually impactful projects.
 
 ---
 
-# 🛠️ Tecnologias
+# 🚀 Specialties
+
+## 🎮 Game Development
+
+- Inventory systems
+- Gameplay mechanics
+- Menus and interfaces
+- Save systems
+- Project architecture
+- Clean code organization
+
+## 💻 Front-End Development
+
+- Modern interfaces
+- Responsive layouts
+- Interactive components
+- CSS animations
+- Visual structure
+- User experience
+
+---
+
+# 🛠️ Technologies
 
 <div align="center">
 
@@ -70,42 +70,55 @@ Meu foco é transformar ideias em projetos funcionais, organizados e visualmente
 
 ---
 
-# 📌 Projetos em Destaque
+# 📌 Featured Projects
 
 ## 🎮 Banana Splash
 
-Projeto focado em gameplay arcade, sistemas personalizados e menus modernos.
+Arcade-style project focused on gameplay systems, custom interfaces and polished mechanics.
 
-### Recursos
-- Sistema de movimentação
-- UI personalizada
-- Menus animados
-- Mecânicas próprias
-- Estrutura organizada
+### Features
+- Advanced movement system
+- Custom UI
+- Animated menus
+- Unique gameplay mechanics
+- Organized structure
 
 ---
 
 ## 🐱 LumiCat
 
-Projeto com foco em atmosfera, identidade visual e experiência do jogador.
+Stylized project focused on atmosphere, visual identity and player experience.
 
-### Recursos
-- Direção visual estilizada
-- Gameplay experimental
-- Interface personalizada
-- Organização modular
+### Features
+- Experimental gameplay
+- Visual direction
+- Modular structure
+- Interactive systems
+- Modern interface
 
 ---
 
 ## 💾 Inventory System
 
-Sistema modular de inventário desenvolvido em GML.
+Scalable inventory system developed in GML.
 
-### Recursos
-- Coleta de itens
-- Organização de slots
-- Sistema escalável
-- Fácil integração
+### Features
+- Item collection
+- Slot organization
+- Modular structure
+- Easy integration
+- Optimized logic
+
+---
+
+# ⚡ Featured Skills
+
+- Gameplay Programming
+- UI Design
+- Front-End Interfaces
+- Game Systems
+- Responsive Design
+- System Architecture
 
 ---
 
@@ -125,23 +138,23 @@ Sistema modular de inventário desenvolvido em GML.
 
 ---
 
-# 🔥 Diferenciais
+# 🔥 Highlights
 
-✅ Código limpo e organizado
+✅ Clean and organized code
 
-✅ Sistemas pensados para gameplay real
+✅ Systems focused on real gameplay
 
-✅ Foco em experiência visual
+✅ Strong visual identity
 
-✅ Estrutura escalável
+✅ Scalable project structure
 
-✅ Desenvolvimento contínuo através de projetos próprios
+✅ Continuous development through personal projects
 
-✅ Identidade visual forte nos projetos
+✅ Focus on user experience and interface quality
 
 ---
 
-# 🌐 Redes
+# 🌐 Socials
 
 <div align="center">
 
@@ -152,16 +165,16 @@ Sistema modular de inventário desenvolvido em GML.
 
 ---
 
-# 📫 Contato
+# 📫 Contact
 
 🎮 Discord: `f1x7830`
 
-🚀 Aberto para colaborações, projetos e evolução constante como desenvolvedor.
+🚀 Open to collaborations, projects and continuous growth as a developer.
 
 ---
 
 <div align="center">
 
-### ⚡ Building Games & Interfaces
+## ⚡ Building Games & Modern Interfaces
 
 </div>
