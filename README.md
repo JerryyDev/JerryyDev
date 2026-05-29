@@ -109,13 +109,17 @@ Sistema modular de inventário desenvolvido em GML.
 
 ---
 
-# 📈 Estatísticas
+# 🎯 Professional Goals
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+| 🎮 Game Development | 💻 Front-End |
+|---|---|
+| Gameplay Systems | Responsive Interfaces |
+| Save Systems | Modern UI/UX |
+| Custom Menus | Interactive Components |
+| Game Architecture | Visual Design |
+| Performance Optimization | Clean Layouts |
 
 </div>
 
@@ -141,8 +145,8 @@ Sistema modular de inventário desenvolvido em GML.
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YKTMkJaA)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JerryyDev)
 
 </div>
 
