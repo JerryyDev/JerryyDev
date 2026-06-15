@@ -1,180 +1,117 @@
-# 🎮 JerryDev
+
 
 <div align="center">
+
+# 🎮 JerryDev
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=JerryDev&fontAlign=50&fontAlignY=40&color=0:000000,100:2563eb&fontColor=ffffff&fontSize=60" />
 
 ### 🎮 Game Developer • 💻 Front-End Developer
 
-🚀 Building systems, interfaces and experiences focused on gameplay, organization and visual identity.
-
 </div>
 
----
 
-# 👋 About Me
+----
 
-I am a developer focused on game development and modern interfaces.
 
-Currently working with:
+# About Me
 
-- 🎮 Game Development using GameMaker
-- 🧠 Gameplay mechanics and systems in GML
-- 💻 Front-End Development with HTML, CSS and JavaScript
-- 🎨 UI/UX for games and web
-- ⚡ Project structure and optimization
+I'm a developer focused on creating immersive projects through game development and modern web technologies.
 
-My goal is to transform ideas into functional, organized and visually impactful projects.
+My main focus is currently **Velória**, an atmospheric 2D indie game built with GameMaker, where I work on gameplay systems, world design and overall game structure.
+
+Alongside game development, I also create front-end interfaces using HTML, CSS and JavaScript, with emphasis on clean design, organization and user experience.
+
 
 ---
 
-# 🚀 Specialties
 
-## 🎮 Game Development
+# Main Project
 
-- Inventory systems
-- Gameplay mechanics
-- Menus and interfaces
-- Save systems
-- Project architecture
-- Clean code organization
+# 🎮 Velória
 
-## 💻 Front-End Development
+Velória is a 2D atmospheric indie game focused on exploration, immersion and environmental storytelling.
 
-- Modern interfaces
-- Responsive layouts
-- Interactive components
-- CSS animations
-- Visual structure
-- User experience
+The project is being developed with attention to:
 
----
-
-# 🛠️ Technologies
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,github,vscode" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-![GameMaker](https://img.shields.io/badge/GameMaker-GML-black?style=for-the-badge)
-![Frontend](https://img.shields.io/badge/Front--End-Developer-blue?style=for-the-badge)
-![UI](https://img.shields.io/badge/UI-Design-purple?style=for-the-badge)
-
-</div>
-
----
-
-# 📌 Featured Projects
-
-## 🎮 Banana Splash
-
-Arcade-style project focused on gameplay systems, custom interfaces and polished mechanics.
-
-### Features
-- Advanced movement system
-- Custom UI
-- Animated menus
-- Unique gameplay mechanics
+- Atmosphere
+- Exploration
+- NPC interactions
+- Dialogue systems
+- Pixel art environments
+- Smooth gameplay
 - Organized structure
 
 ---
 
-## 🐱 LumiCat
+# Technologies
 
-Stylized project focused on atmosphere, visual identity and player experience.
+## Game Development
+- GameMaker
+- GML
 
-### Features
-- Experimental gameplay
-- Visual direction
-- Modular structure
-- Interactive systems
-- Modern interface
+## Front-End Development
+- HTML
+- CSS
+- JavaScript
 
----
-
-## 💾 Inventory System
-
-Scalable inventory system developed in GML.
-
-### Features
-- Item collection
-- Slot organization
-- Modular structure
-- Easy integration
-- Optimized logic
+## Tools
+- Git
+- GitHub
+- Aseprite
+- VS Code
 
 ---
 
-# ⚡ Featured Skills
+# Skills
 
-- Gameplay Programming
-- UI Design
-- Front-End Interfaces
-- Game Systems
+- UI Structuring
 - Responsive Design
-- System Architecture
+- Gameplay Programming
+- Collision Systems
+- Dialogue Systems
+- Object Organization
+- Pixel Art Workflow
+- Game Architecture Fundamentals
 
 ---
 
-# 🎯 Professional Goals
+# Current Focus
 
-<div align="center">
-
-| 🎮 Game Development | 💻 Front-End |
-|---|---|
-| Gameplay Systems | Responsive Interfaces |
-| Save Systems | Modern UI/UX |
-| Custom Menus | Interactive Components |
-| Game Architecture | Visual Design |
-| Performance Optimization | Clean Layouts |
-
-</div>
+- Developing Velória
+- Improving project architecture
+- Learning scalable programming practices
+- Creating immersive game experiences
+- Expanding front-end development skills
 
 ---
 
-# 🔥 Highlights
+# Philosophy
 
-✅ Clean and organized code
+I value:
+- Clean organization
+- Consistency
+- Immersion
+- Simplicity
+- Visual identity
+- User experience
 
-✅ Systems focused on real gameplay
-
-✅ Strong visual identity
-
-✅ Scalable project structure
-
-✅ Continuous development through personal projects
-
-✅ Focus on user experience and interface quality
+My goal is to create projects that feel polished, immersive and memorable.
 
 ---
 
-# 🌐 Socials
+# Featured Technologies
 
-<div align="center">
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YKTMkJaA)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JerryyDev)
-
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+</p>
 
 ---
 
-# 📫 Contact
+# GitHub Stats
 
-🎮 Discord: `f1x7830`
-
-🚀 Open to collaborations, projects and continuous growth as a developer.
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JerryyDev&show_icons=true" />
+</p>
 
 ---
-
-<div align="center">
-
-## ⚡ Building Games & Modern Interfaces
-
-</div>
