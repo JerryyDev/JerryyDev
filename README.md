@@ -13,14 +13,15 @@
 
 ----
 
-
 # About Me
 
 I'm a developer focused on creating immersive projects through game development and modern web technologies.
 
-My main focus is currently **Velória**, an atmospheric 2D indie game built with GameMaker, where I work on gameplay systems, world design and overall game structure.
+My main focus is currently split between two key projects:
 
-Alongside game development, I also create front-end interfaces using HTML, CSS and JavaScript, with emphasis on clean design, organization and user experience.
+**Velória**: An atmospheric 2D indie game built with GameMaker, where I focus on gameplay systems, world design, and overall structure.
+
+**The Duck Chronicles**: A fast-paced, 8-bit cartoon arena roguelike crafted in GameMaker, featuring dynamic spawning mechanics, enemy cataloging, and responsive arcade combat.
 
 ---
 
